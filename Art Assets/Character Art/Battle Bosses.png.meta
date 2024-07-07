@@ -1,0 +1,419 @@
+fileFormatVersion: 2
+guid: dd61146dbe36aa6449131fb544979165
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Dragon Overworld
+  - first:
+      213: 21300002
+    second: DAGRONS5 - Credit to Stephen 'Redshrike' Challener, MrBeast, Surt, Blarumyrran,
+      Sharm, Zabin_1
+  - first:
+      213: 21300004
+    second: DAGRONS5 - Credit to Stephen 'Redshrike' Challener, MrBeast, Surt, Blarumyrran,
+      Sharm, Zabin_2
+  - first:
+      213: 21300006
+    second: DAGRONS5 - Credit to Stephen 'Redshrike' Challener, MrBeast, Surt, Blarumyrran,
+      Sharm, Zabin_3
+  - first:
+      213: 21300008
+    second: DAGRONS5 - Credit to Stephen 'Redshrike' Challener, MrBeast, Surt, Blarumyrran,
+      Sharm, Zabin_4
+  - first:
+      213: 21300010
+    second: DAGRONS5 - Credit to Stephen 'Redshrike' Challener, MrBeast, Surt, Blarumyrran,
+      Sharm, Zabin_5
+  - first:
+      213: 21300012
+    second: Dragon Battle
+  - first:
+      213: 21300014
+    second: DAGRONS5 - Credit to Stephen 'Redshrike' Challener, MrBeast, Surt, Blarumyrran,
+      Sharm, Zabin_7
+  - first:
+      213: 21300016
+    second: DAGRONS5 - Credit to Stephen 'Redshrike' Challener, MrBeast, Surt, Blarumyrran,
+      Sharm, Zabin_8
+  - first:
+      213: 21300018
+    second: DAGRONS5 - Credit to Stephen 'Redshrike' Challener, MrBeast, Surt, Blarumyrran,
+      Sharm, Zabin_9
+  - first:
+      213: 21300020
+    second: DAGRONS5 - Credit to Stephen 'Redshrike' Challener, MrBeast, Surt, Blarumyrran,
+      Sharm, Zabin_10
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Battle Bosses_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 247
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0944cfb2d2154d047841308231239b7e
+      internalID: 1327408853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Bosses_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 283
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e12874d8123164ba6eafb36768c12f
+      internalID: -1961530159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Bosses_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 277
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b76fc932b44d614195befa880ba1717
+      internalID: -1301599583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Bosses_3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 241
+        width: 80
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c993616c726fd04688822c159c7d3f4
+      internalID: -594783409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Bosses_4
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 137
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd04bd44654640649af53751076ecf2e
+      internalID: -49760465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Bosses_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 164
+        width: 173
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fbc1d8068e87e42b95968e06b2d7d7
+      internalID: 921007072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Bosses_6
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 137
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30642f0b269c194488785f2225edc242
+      internalID: -768235865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Bosses_7
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 55
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9101429be4df14f4798699998b87626f
+      internalID: 929375104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Bosses_8
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 96
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95882de5124a1454b8bd259809dca0a4
+      internalID: 684246211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Bosses_9
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 72
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb0a9d394ae23f4eb4f5ba06d7562c3
+      internalID: 620578562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Bosses_10
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 7
+        width: 175
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1020cfb611cb38a4cb8b13f4254b2977
+      internalID: -401968062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 076d59b57d9c7584e83ef32d4df4e090
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Battle Bosses_0: 1327408853
+      Battle Bosses_1: -1961530159
+      Battle Bosses_10: -401968062
+      Battle Bosses_2: -1301599583
+      Battle Bosses_3: -594783409
+      Battle Bosses_4: -49760465
+      Battle Bosses_5: 921007072
+      Battle Bosses_6: -768235865
+      Battle Bosses_7: 929375104
+      Battle Bosses_8: 684246211
+      Battle Bosses_9: 620578562
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
