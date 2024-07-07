@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4277819393
+    locked: 0
+  - name: Foreground (Backmost)
+    uniqueID: 3862397059
+    locked: 0
+  - name: Foreground (Med)
+    uniqueID: 3907572707
+    locked: 0
+  - name: Foreground (Frontmost)
+    uniqueID: 2955214863
+    locked: 0
+  - name: Player
+    uniqueID: 537976157
+    locked: 0
+  - name: Foreground (Above Player)
+    uniqueID: 2376817759
+    locked: 0
+  - name: Battle BG
+    uniqueID: 981937249
+    locked: 0
+  - name: Battle Characters
+    uniqueID: 2819527003
+    locked: 0
+  - name: Battle Effects (Select)
+    uniqueID: 1655005477
+    locked: 0
+  - name: Battle Effects (Actions)
+    uniqueID: 240616441
+    locked: 0
